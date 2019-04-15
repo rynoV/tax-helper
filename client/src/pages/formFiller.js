@@ -7,6 +7,8 @@ import Toolbar from '../components/Toolbar'
 
 import { getInitialFields } from '../funcs/getInitialFields'
 
+const windowGlobal = typeof window !== 'undefined' && window
+
 export default ({ data }) => {
   const { edges } = data.allFormFieldsJson
   const linesArr = edges.map(({ node }) => {
@@ -18,11 +20,13 @@ export default ({ data }) => {
   )
 
   const [savedForms, setSavedForms] = useState(() => {
-    if (window.localStorage.key(0)) {
+    if (windowGlobal && windowGlobal.localStorage.key(0)) {
       const prevForms = {}
-      for (let i = 0, len = window.localStorage.length; i < len; i++) {
-        const formName = window.localStorage.key(i)
-        const formValue = JSON.parse(window.localStorage.getItem(formName))
+      for (let i = 0, len = windowGlobal.localStorage.length; i < len; i++) {
+        const formName = windowGlobal.localStorage.key(i)
+        const formValue = JSON.parse(
+          windowGlobal.localStorage.getItem(formName)
+        )
         prevForms[formName] = formValue
       }
 
@@ -49,14 +53,16 @@ export default ({ data }) => {
   }
 
   const createNewForm = formName => {
-    window.localStorage.setItem(formName, JSON.stringify(fields))
-    setSavedForms(prev => {
-      if (prev.Untitled) delete prev.Untitled
-      return {
-        ...prev,
-        [formName]: JSON.parse(window.localStorage.getItem(formName)),
-      }
-    })
+    windowGlobal &&
+      windowGlobal.localStorage.setItem(formName, JSON.stringify(fields))
+    windowGlobal &&
+      setSavedForms(prev => {
+        if (prev.Untitled) delete prev.Untitled
+        return {
+          ...prev,
+          [formName]: JSON.parse(windowGlobal.localStorage.getItem(formName)),
+        }
+      })
 
     setCurFormName(formName)
   }
