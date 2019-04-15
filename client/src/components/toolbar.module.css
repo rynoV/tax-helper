@@ -1,0 +1,19 @@
+.toolbar {
+  background-color: #ccccccee;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem;
+}
+
+.toolbar label input {
+  width: 50px;
+}
+
+.current-form {
+  color: purple;
+}
+
+label * {
+  margin: 0 0.7rem 0 0.7rem;
+}

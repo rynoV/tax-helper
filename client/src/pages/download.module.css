@@ -1,0 +1,22 @@
+.wrapper {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.actions {
+  display: flex;
+  width: 30vw;
+  justify-content: space-around;
+}
+
+.info {
+  font-size: 20px;
+}
+
+.actions a {
+  color: purple;
+  text-decoration: none;
+}

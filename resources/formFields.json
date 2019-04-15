@@ -1,0 +1,978 @@
+[
+      {
+         "content" : "Employment income. Box 14 of all T4 slips.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00000\u00001\u0000_\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 101. Employment income. Box 14 of all T4 slips. (alternate name)",
+         "lineNum" : "101",
+         "sum" : null
+      },
+      {
+         "content" : "Commissions included on line 101. Box 42 of all T4 slips.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00000\u00002\u0000_\u0000C\u0000o\u0000m\u0000m\u0000i\u0000s\u0000s\u0000i\u0000o\u0000n\u0000s\u0000[\u00000\u0000].Step 2. Total income. Line 102. Commissions included on line 101. Box 42 of all T4 slips. (alternate name)",
+         "lineNum" : "102",
+         "sum" : null
+      },
+      {
+         "content" : "Wage loss replacement contributions. See line 101 in the guide.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00000\u00003\u0000s\u0000f\u0000[\u00000\u0000].Step 2. Total income. Line 103. Wage loss replacement contributions. See line 101 in the guide. (alternate name)",
+         "lineNum" : "103",
+         "sum" : null
+      },
+      {
+         "content" : "Other employment income.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00000\u00004\u0000_\u0000O\u0000t\u0000h\u0000e\u0000r\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 104. Other employment income. (alternate name)",
+         "lineNum" : "104",
+         "sum" : null
+      },
+      {
+         "content" : "Old age security pension. Box 18 of the T4A(OAS) slip.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00001\u00003\u0000_\u0000O\u0000l\u0000d\u0000A\u0000g\u0000e\u0000S\u0000e\u0000c\u0000u\u0000r\u0000i\u0000t\u0000y\u0000P\u0000e\u0000n\u0000s\u0000i\u0000o\u0000n\u0000[\u00000\u0000].Step 2. Total income. Line 113. Old age security pension. Box 18 of the T4A(OAS) slip. (alternate name)",
+         "lineNum" : "113",
+         "sum" : null
+      },
+      {
+         "content" : "Canada pension plan or Quebec pension plan benefits. Box 20 of the T4A(P) slip.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00001\u00004\u0000_\u0000C\u0000P\u0000P\u0000_\u0000Q\u0000P\u0000P\u0000[\u00000\u0000].Step 2. Total income. Line 114. Canada pension plan or Quebec pension plan benefits. Box 20 of the T4A(P) slip. (alternate name)",
+         "lineNum" : "114",
+         "sum" : null
+      },
+      {
+         "content" : "Disability benefits included on line 114. Box 16 of the T4A(P) slip.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00005\u00002\u0000_\u0000D\u0000i\u0000s\u0000a\u0000b\u0000i\u0000l\u0000i\u0000t\u0000y\u0000B\u0000e\u0000n\u0000e\u0000f\u0000i\u0000t\u0000s\u0000[\u00000\u0000].Step 2. Total income. Line 152. Disability benefits included on line 114. Box 16 of the T4A(P) slip. (alternate name)",
+         "lineNum" : "152",
+         "sum" : null
+      },
+      {
+         "content" : "Other pensions and superannuation. See line 115 in the guide and complete the Worksheet for Schedule 1 for line 314.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00001\u00005\u0000_\u0000O\u0000t\u0000h\u0000e\u0000r\u0000P\u0000e\u0000n\u0000s\u0000i\u0000o\u0000n\u0000s\u0000[\u00000\u0000].Step 2. Total income. Line 115. Other pensions and superannuation. See line 115 in the guide and complete the \rWorksheet for Schedule 1 for line 314. (alternate name)",
+         "lineNum" : "115",
+         "sum" : null
+      },
+      {
+         "content" : "Elected split-pension amount. Get and complete Form T1032.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00001\u00006\u0000_\u0000E\u0000l\u0000e\u0000c\u0000t\u0000e\u0000d\u0000S\u0000p\u0000l\u0000i\u0000t\u0000P\u0000e\u0000n\u0000s\u0000i\u0000o\u0000n\u0000[\u00000\u0000].Step 2. Total income. Line 116. Elected split-pension amount. Get and complete Form T1032. (alternate name)",
+         "lineNum" : "116",
+         "sum" : null
+      },
+      {
+         "content" : "Universal child care benefit. See the RC62 slip.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00001\u00007\u0000_\u0000U\u0000C\u0000C\u0000B\u0000[\u00000\u0000].Step 2. Total income. Line 117. Universal child care benefit. See the RC62 slip. (alternate name)",
+         "lineNum" : "117",
+         "sum" : null
+      },
+      {
+         "content" : "Universal child care benefit amount designated to a dependant.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00008\u00005\u0000_\u0000U\u0000C\u0000C\u0000B\u0000D\u0000e\u0000s\u0000i\u0000g\u0000n\u0000a\u0000t\u0000e\u0000d\u0000[\u00000\u0000].Step 2. Total income. Line 185. Universal child care benefit amount designated to a dependant. (alternate name)",
+         "lineNum" : "185",
+         "sum" : null
+      },
+      {
+         "content" : "Employment insurance and other benefits. Box 14 of the T4E slip.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00001\u00009\u0000_\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000s\u0000u\u0000r\u0000a\u0000n\u0000c\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 119. Employment insurance and other benefits. Box 14 of the T4E slip. (alternate name)",
+         "lineNum" : "119",
+         "sum" : null
+      },
+      {
+         "content" : "Taxable amount of dividends, eligible and other than eligible, from taxable Canadian corporations. Complete the Worksheet for the return.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00002\u00000\u0000_\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000D\u0000i\u0000v\u0000i\u0000d\u0000e\u0000n\u0000d\u0000s\u0000[\u00000\u0000].Step 2. Total income. Line 120. Taxable amount of dividends, eligible and other than eligible, from taxable Canadian corporations. Complete the Worksheet for the return.  (alternate name)",
+         "lineNum" : "120",
+         "sum" : null
+      },
+      {
+         "content" : "Taxable amount of dividends other than eligible dividends, included on line 120, from taxable Canadian corporations.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00008\u00000\u0000_\u0000O\u0000t\u0000h\u0000e\u0000r\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000D\u0000i\u0000v\u0000i\u0000d\u0000e\u0000n\u0000d\u0000s\u0000[\u00000\u0000].Step 2. Total income. Line 180. Taxable amount of dividends other than eligible dividends, included on line 120, from taxable Canadian corporations. (alternate name)",
+         "lineNum" : "180",
+         "sum" : null
+      },
+      {
+         "content" : "Interest and other investment income. Complete the Worksheet for the return.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00002\u00001\u0000_\u0000I\u0000n\u0000v\u0000e\u0000s\u0000t\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 121. Interest and other investment income. Complete the Worksheet for the return. (alternate name)",
+         "lineNum" : "121",
+         "sum" : null
+      },
+      {
+         "content" : "Net partnership income. Limited or non-active partners only.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00002\u00002\u0000_\u0000P\u0000a\u0000r\u0000t\u0000n\u0000e\u0000r\u0000s\u0000h\u0000i\u0000p\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 122. Net partnership income. Limited or non-active partners only. (alternate name)",
+         "lineNum" : "122",
+         "sum" : null
+      },
+      {
+         "content" : "Registered disability savings plan income. Box 131 of the T4A slip.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00002\u00005\u0000_\u0000R\u0000D\u0000S\u0000P\u0000[\u00000\u0000].Step 2. Total income. Line 125. Registered disability savings plan income. Box 131 of the T4A slip. (alternate name)",
+         "lineNum" : "125",
+         "sum" : null
+      },
+      {
+         "content" : "Rental income. Gross.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00006\u00000\u0000_\u00001\u00002\u00006\u0000_\u0000R\u0000e\u0000n\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 160. Rental income. Gross. (alternate name)",
+         "lineNum" : "160",
+         "sum" : null
+      },
+      {
+         "content" : "Rental income. Net.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00006\u00000\u0000_\u00001\u00002\u00006\u0000_\u0000R\u0000e\u0000n\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 126. Rental income. Net. (alternate name)",
+         "lineNum" : "126",
+         "sum" : null
+      },
+      {
+         "content" : "Taxable capital gains. Complete Schedule 3.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00002\u00007\u0000_\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000C\u0000a\u0000p\u0000i\u0000t\u0000a\u0000l\u0000G\u0000a\u0000i\u0000n\u0000s\u0000[\u00000\u0000].Step 2. Total income. Line 127. Taxable capital gains. Complete Schedule 3. (alternate name)",
+         "lineNum" : "127",
+         "sum" : null
+      },
+      {
+         "content" : "Support payments received. Total.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00005\u00006\u0000_\u00001\u00002\u00008\u0000_\u0000S\u0000u\u0000p\u0000p\u0000o\u0000r\u0000t\u0000P\u0000a\u0000y\u0000R\u0000e\u0000c\u0000e\u0000i\u0000v\u0000e\u0000d\u0000[\u00000\u0000].Step 2. Total income. Line 156. Support payments received. Total. (alternate name)",
+         "lineNum" : "156",
+         "sum" : null
+      },
+      {
+         "content" : "Support payments received. Taxable amount.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00005\u00006\u0000_\u00001\u00002\u00008\u0000_\u0000S\u0000u\u0000p\u0000p\u0000o\u0000r\u0000t\u0000P\u0000a\u0000y\u0000R\u0000e\u0000c\u0000e\u0000i\u0000v\u0000e\u0000d\u0000[\u00000\u0000].Step 2. Total income. Line 128. Support payments received. Taxable amount. (alternate name)",
+         "lineNum" : "128",
+         "sum" : null
+      },
+      {
+         "content" : "Registered retirement savings plan income from all T4RSP slips.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00002\u00009\u0000_\u0000R\u0000R\u0000S\u0000P\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 129. Registered retirement savings plan income from all T4RSP slips. (alternate name)",
+         "lineNum" : "129",
+         "sum" : null
+      },
+      {
+         "content" : "Other income. Specify.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00003\u00000\u0000_\u0000O\u0000t\u0000h\u0000e\u0000r\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 130. Other income. Specify. (alternate name)",
+         "lineNum" : "0130",
+         "sum" : null
+      },
+      {
+         "content" : "Other income.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00003\u00000\u0000_\u0000O\u0000t\u0000h\u0000e\u0000r\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 130. Other income.  (alternate name)",
+         "lineNum" : "130",
+         "sum" : null
+      },
+      {
+         "content" : "Self-employment income. Business income. Gross.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000S\u0000e\u0000l\u0000f\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00006\u00002\u0000_\u00001\u00003\u00005\u0000_\u0000B\u0000u\u0000s\u0000i\u0000n\u0000e\u0000s\u0000s\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 162. Self-employment income. Business income. Gross. (alternate name)",
+         "lineNum" : "162",
+         "sum" : null
+      },
+      {
+         "content" : "Self-employment income. Business income. Net.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000S\u0000e\u0000l\u0000f\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00006\u00002\u0000_\u00001\u00003\u00005\u0000_\u0000B\u0000u\u0000s\u0000i\u0000n\u0000e\u0000s\u0000s\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 135. Self-employment income. Business income. Net. (alternate name)",
+         "lineNum" : "135",
+         "sum" : null
+      },
+      {
+         "content" : "Self-employment income. Professional income. Gross.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000S\u0000e\u0000l\u0000f\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00006\u00004\u0000_\u00001\u00003\u00007\u0000_\u0000P\u0000r\u0000o\u0000f\u0000e\u0000s\u0000s\u0000i\u0000o\u0000n\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 164. Self-employment income. Professional income. Gross. (alternate name)",
+         "lineNum" : "164",
+         "sum" : null
+      },
+      {
+         "content" : "Self-employment income. Professional income. Net.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000S\u0000e\u0000l\u0000f\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00006\u00004\u0000_\u00001\u00003\u00007\u0000_\u0000P\u0000r\u0000o\u0000f\u0000e\u0000s\u0000s\u0000i\u0000o\u0000n\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 137. Self-employment income. Professional income. Net. (alternate name)",
+         "lineNum" : "137",
+         "sum" : null
+      },
+      {
+         "content" : "Self-employment income. Commission income. Gross.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000S\u0000e\u0000l\u0000f\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00006\u00006\u0000_\u00001\u00003\u00009\u0000_\u0000C\u0000o\u0000m\u0000m\u0000i\u0000s\u0000s\u0000i\u0000o\u0000n\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 166. Self-employment income. Commission income. Gross. (alternate name)",
+         "lineNum" : "166",
+         "sum" : null
+      },
+      {
+         "content" : "Self-employment income. Commission income. Net.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000S\u0000e\u0000l\u0000f\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00006\u00006\u0000_\u00001\u00003\u00009\u0000_\u0000C\u0000o\u0000m\u0000m\u0000i\u0000s\u0000s\u0000i\u0000o\u0000n\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 139. Self-employment income. Commission income. Net. (alternate name)",
+         "lineNum" : "139",
+         "sum" : null
+      },
+      {
+         "content" : "Self-employment income. Farming income. Gross.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000S\u0000e\u0000l\u0000f\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00006\u00008\u0000_\u00001\u00004\u00001\u0000_\u0000F\u0000a\u0000r\u0000m\u0000i\u0000n\u0000g\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 168. Self-employment income. Farming income. Gross. (alternate name)",
+         "lineNum" : "168",
+         "sum" : null
+      },
+      {
+         "content" : "Self-employment income. Farming income. Net.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000S\u0000e\u0000l\u0000f\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00006\u00008\u0000_\u00001\u00004\u00001\u0000_\u0000F\u0000a\u0000r\u0000m\u0000i\u0000n\u0000g\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 141. Self-employment income. Farming income. Net. (alternate name)",
+         "lineNum" : "141",
+         "sum" : null
+      },
+      {
+         "content" : "Self-employment income. Fishing income. Gross.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000S\u0000e\u0000l\u0000f\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00007\u00000\u0000_\u00001\u00004\u00003\u0000_\u0000F\u0000i\u0000s\u0000h\u0000i\u0000n\u0000g\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 170. Self-employment income. Fishing income. Gross. (alternate name)",
+         "lineNum" : "170",
+         "sum" : null
+      },
+      {
+         "content" : "Self-employment income. Fishing income. Net.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000S\u0000e\u0000l\u0000f\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00007\u00000\u0000_\u00001\u00004\u00003\u0000_\u0000F\u0000i\u0000s\u0000h\u0000i\u0000n\u0000g\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 2. Total income. Line 143. Self-employment income. Fishing income. Net. (alternate name)",
+         "lineNum" : "143",
+         "sum" : null
+      },
+      {
+         "content" : "Workers' compensation benefits. Box 10 of the T5007 slip.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00004\u00004\u0000_\u0000W\u0000o\u0000r\u0000k\u0000e\u0000r\u0000s\u0000C\u0000o\u0000m\u0000p\u0000B\u0000e\u0000n\u0000[\u00000\u0000].Step 2. Total income. Line 144. Workers' compensation benefits. Box 10 of the T5007 slip. (alternate name)",
+         "lineNum" : "144",
+         "sum" : null
+      },
+      {
+         "content" : "Social assistance payments.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00004\u00005\u0000_\u0000S\u0000o\u0000c\u0000i\u0000a\u0000l\u0000A\u0000s\u0000s\u0000i\u0000s\u0000t\u0000P\u0000a\u0000y\u0000[\u00000\u0000].Step 2. Total income. Line 145. Social assistance payments. (alternate name)",
+         "lineNum" : "145",
+         "sum" : null
+      },
+      {
+         "content" : "Net federal supplements. Box 21 of the T4A(OAS) slip.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00004\u00006\u0000_\u0000N\u0000e\u0000t\u0000F\u0000e\u0000d\u0000S\u0000u\u0000p\u0000p\u0000l\u0000e\u0000m\u0000e\u0000n\u0000t\u0000s\u0000[\u00000\u0000].Step 2. Total income. Line 146. Net federal supplements. Box 21 of the T4A(OAS) slip. (alternate name)",
+         "lineNum" : "146",
+         "sum" : null
+      },
+      {
+         "content" : "Add lines 144, 145, and 146. See line 250 on this return. Instance 1.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00004\u00007\u0000_\u0000A\u0000d\u0000d\u0000L\u0000i\u0000n\u0000e\u0000s\u0000[\u00000\u0000].Step 2. Total income. Line 147. Add lines 144, 145, and 146. See line 250 on this return. Instance 1. (alternate name)",
+         "lineNum" : "147",
+         "sum" : [ 144, 145, 146 ]
+      },
+      {
+         "content" : "Add lines 144, 145, and 146. See line 250 on this return. Instance 2.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00004\u00007\u0000_\u0000A\u0000d\u0000d\u0000L\u0000i\u0000n\u0000e\u0000s\u0000[\u00000\u0000].Step 2. Total income. Line 147. Add lines 144, 145, and 146. See line 250 on this return. Instance 2. (alternate name)",
+         "lineNum" : "0147",
+         "sum" : [ 144, 145, 146 ]
+      },
+      {
+         "content" : "This is your total income. Add lines 101, 104 to 143, and 147.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00002\u0000[\u00000\u0000].þÿ\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00005\u00000\u0000_\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000_\u00001\u0000[\u00000\u0000].Step 2. Total income. Line 150. This is your total income. Add lines 101, 104 to 143, and 147. (alternate name)",
+         "lineNum" : "150",
+         "sum" : [
+           101,
+           104,
+           105,
+           106,
+           107,
+           108,
+           109,
+           110,
+           111,
+           112,
+           113,
+           114,
+           115,
+           116,
+           117,
+           118,
+           119,
+           120,
+           121,
+           122,
+           123,
+           124,
+           125,
+           126,
+           127,
+           128,
+           129,
+           130,
+           131,
+           132,
+           133,
+           134,
+           135,
+           136,
+           137,
+           138,
+           139,
+           140,
+           141,
+           142,
+           143,
+           147
+         ]
+      },
+      {
+         "content" : "Enter your total income from line 150.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00001\u00005\u00000\u0000_\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000_\u00002\u0000[\u00000\u0000].Step 3. Net income. Line 150. Enter your total income from line 150.  (alternate name)",
+         "lineNum" : "0150",
+         "sum" : [
+           101,
+           104,
+           105,
+           106,
+           107,
+           108,
+           109,
+           110,
+           111,
+           112,
+           113,
+           114,
+           115,
+           116,
+           117,
+           118,
+           119,
+           120,
+           121,
+           122,
+           123,
+           124,
+           125,
+           126,
+           127,
+           128,
+           129,
+           130,
+           131,
+           132,
+           133,
+           134,
+           135,
+           136,
+           137,
+           138,
+           139,
+           140,
+           141,
+           142,
+           143,
+           147
+         ]
+      },
+      {
+         "content" : "Pension adjustment. Box 52 of all T4 slips and box 034 of all T4A slips.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00000\u00006\u0000_\u0000P\u0000e\u0000n\u0000s\u0000i\u0000o\u0000n\u0000A\u0000d\u0000j\u0000u\u0000s\u0000t\u0000m\u0000e\u0000n\u0000t\u0000[\u00000\u0000].Step 3. Net income. Line 206. Pension adjustment. Box 52 of all T4 slips and box 034 of all T4A slips. (alternate name)",
+         "lineNum" : "206",
+         "sum" : null
+      },
+      {
+         "content" : "Registered pension plan deduction. Box 20 of all T4 slips and box 032 of all T4A slips.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00000\u00007\u0000_\u0000R\u0000P\u0000P\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000[\u00000\u0000].Step 3. Net income. Line 207. Registered pension plan deduction. Box 20 of all T4 slips and box 032 of all T4A slips. (alternate name)",
+         "lineNum" : "207",
+         "sum" : null
+      },
+      {
+         "content" : "Registered retirement savings plan and pooled registered pension plan deduction. See Schedule 7 and attach receipts.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00000\u00008\u0000_\u0000R\u0000R\u0000S\u0000P\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000[\u00000\u0000].Step 3. Net income. Line 208. Registered retirement savings plan and pooled registered pension plan deduction. See Schedule 7 and attach receipts. (alternate name)",
+         "lineNum" : "208",
+         "sum" : null
+      },
+      {
+         "content" : "Pooled registered pension plan employer contributions. Amount from your pooled registered pension plan contribution receipts.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00000\u00005\u0000_\u0000P\u0000R\u0000P\u0000P\u0000[\u00000\u0000].Step 3. Net income. Line 205. Pooled registered pension plan employer contributions. Amount from your pooled registered pension plan contribution receipts. (alternate name)",
+         "lineNum" : "205",
+         "sum" : null
+      },
+      {
+         "content" : "Deduction for elected split-pension amount. Get and complete Form T1032.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00001\u00000\u0000_\u0000S\u0000p\u0000l\u0000i\u0000t\u0000P\u0000e\u0000n\u0000s\u0000i\u0000o\u0000n\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000[\u00000\u0000].Step 3. Net income. Line 210. Deduction for elected split-pension amount. Get and complete Form T1032. (alternate name)",
+         "lineNum" : "210",
+         "sum" : null
+      },
+      {
+         "content" : "Annual union, professional, or like dues. Receipts and box 44 of all T4 slips.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00001\u00002\u0000_\u0000D\u0000u\u0000e\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 212. Annual union, professional, or like dues. Receipts and box 44 of all T4 slips. (alternate name)",
+         "lineNum" : "212",
+         "sum" : null
+      },
+      {
+         "content" : "Universal child care benefit repayment. Box 12 of all RC62 slips.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00001\u00003\u0000_\u0000U\u0000C\u0000C\u0000B\u0000R\u0000e\u0000p\u0000a\u0000y\u0000m\u0000e\u0000n\u0000t\u0000[\u00000\u0000].Step 3. Net income. Line 213. Universal child care benefit repayment. Box 12 of all RC62 slips. (alternate name)",
+         "lineNum" : "213",
+         "sum" : null
+      },
+      {
+         "content" : "Child care expenses. Get and complete Form T778.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00001\u00004\u0000_\u0000C\u0000h\u0000i\u0000l\u0000d\u0000C\u0000a\u0000r\u0000e\u0000E\u0000x\u0000p\u0000e\u0000n\u0000s\u0000e\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 214. Child care expenses. Get and complete Form T778. (alternate name)",
+         "lineNum" : "214",
+         "sum" : null
+      },
+      {
+         "content" : "Disability supports deduction. Get and complete Form T929.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00001\u00005\u0000_\u0000D\u0000i\u0000s\u0000a\u0000b\u0000i\u0000l\u0000i\u0000t\u0000y\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000[\u00000\u0000].Step 3. Net income. Line 215. Disability supports deduction. Get and complete Form T929. (alternate name)",
+         "lineNum" : "215",
+         "sum" : null
+      },
+      {
+         "content" : "Business investment loss. Gross.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00002\u00008\u0000_\u00002\u00001\u00007\u0000_\u0000B\u0000u\u0000s\u0000i\u0000n\u0000e\u0000s\u0000s\u0000L\u0000o\u0000s\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 228. Business investment loss. Gross. (alternate name)",
+         "lineNum" : "228",
+         "sum" : null
+      },
+      {
+         "content" : "Business investment loss. Allowable deduction.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00002\u00008\u0000_\u00002\u00001\u00007\u0000_\u0000B\u0000u\u0000s\u0000i\u0000n\u0000e\u0000s\u0000s\u0000L\u0000o\u0000s\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 217. Business investment loss. Allowable deduction. (alternate name)",
+         "lineNum" : "217",
+         "sum" : null
+      },
+      {
+         "content" : "Moving expenses. Get and complete Form T1-M.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00001\u00009\u0000_\u0000M\u0000o\u0000v\u0000i\u0000n\u0000g\u0000E\u0000x\u0000p\u0000e\u0000n\u0000s\u0000e\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 219. Moving expenses. Get and complete Form T1-M. (alternate name)",
+         "lineNum" : "219",
+         "sum" : null
+      },
+      {
+         "content" : "Support payments made. Total.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00003\u00000\u0000_\u00002\u00002\u00000\u0000_\u0000S\u0000u\u0000p\u0000p\u0000o\u0000r\u0000t\u0000P\u0000a\u0000y\u0000m\u0000e\u0000n\u0000t\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 230. Support payments made. Total. (alternate name)",
+         "lineNum" : "230",
+         "sum" : null
+      },
+      {
+         "content" : "Support payments made. Allowable deduction.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00003\u00000\u0000_\u00002\u00002\u00000\u0000_\u0000S\u0000u\u0000p\u0000p\u0000o\u0000r\u0000t\u0000P\u0000a\u0000y\u0000m\u0000e\u0000n\u0000t\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 220. Support payments made. Allowable deduction. (alternate name)",
+         "lineNum" : "220",
+         "sum" : null
+      },
+      {
+         "content" : "Carrying charges and interest expenses. Complete the Worksheet for the return.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00002\u00001\u0000_\u0000C\u0000a\u0000r\u0000r\u0000y\u0000i\u0000n\u0000g\u0000C\u0000h\u0000a\u0000r\u0000g\u0000e\u0000s\u0000I\u0000n\u0000t\u0000e\u0000r\u0000e\u0000s\u0000t\u0000[\u00000\u0000].Step 3. Net income. Line 221. Carrying charges and interest expenses. Complete the Worksheet for the return. (alternate name)",
+         "lineNum" : "221",
+         "sum" : null
+      },
+      {
+         "content" : "Deduction for Canada pension plan or Quebec pension plan contributions on self-employment and other earnings. Complete Schedule 8 or get and complete Form RC381, whichever applies.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00002\u00002\u0000_\u0000C\u0000P\u0000P\u0000_\u0000Q\u0000P\u0000P\u0000_\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000[\u00000\u0000].Step 3. Net income. Line 222. Deduction for Canada pension plan or Quebec pension plan contributions on self-employment and other earnings. Complete Schedule 8 or get and complete Form RC381, whichever applies. (alternate name)",
+         "lineNum" : "222",
+         "sum" : null
+      },
+      {
+         "content" : "Exploration and development expenses. Get and complete Form T1229.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00002\u00004\u0000_\u0000X\u0000p\u0000l\u0000o\u0000r\u0000a\u0000t\u0000i\u0000o\u0000n\u0000D\u0000e\u0000v\u0000E\u0000x\u0000p\u0000e\u0000n\u0000s\u0000e\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 224. Exploration and development expenses. Get and complete Form T1229. (alternate name)",
+         "lineNum" : "224",
+         "sum" : null
+      },
+      {
+         "content" : "Other employment expenses.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00002\u00009\u0000_\u0000O\u0000t\u0000h\u0000e\u0000r\u0000E\u0000m\u0000p\u0000l\u0000o\u0000y\u0000E\u0000x\u0000p\u0000e\u0000n\u0000s\u0000e\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 229. Other employment expenses. (alternate name)",
+         "lineNum" : "229",
+         "sum" : null
+      },
+      {
+         "content" : "Clergy residence deduction. Get and complete Form T1223.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00003\u00001\u0000_\u0000C\u0000l\u0000e\u0000r\u0000g\u0000y\u0000R\u0000e\u0000s\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000[\u00000\u0000].Step 3. Net income. Line 231. Clergy residence deduction. Get and complete Form T1223. (alternate name)",
+         "lineNum" : "231",
+         "sum" : null
+      },
+      {
+         "content" : "Other deductions. Specify.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00003\u00002\u0000_\u0000O\u0000t\u0000h\u0000e\u0000r\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 232. Other deductions. Specify. (alternate name)",
+         "lineNum" : "0232",
+         "sum" : null
+      },
+      {
+         "content" : "Other deductions.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00003\u00002\u0000_\u0000O\u0000t\u0000h\u0000e\u0000r\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 232. Other deductions.  (alternate name)",
+         "lineNum" : "232",
+         "sum" : null
+      },
+      {
+         "content" : "Add lines 207 to 224, 229, 231, and 232. Instance 1.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00003\u00003\u0000_\u0000A\u0000d\u0000d\u0000L\u0000i\u0000n\u0000e\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 233. Add lines 207 to 224, 229, 231, and 232. Instance 1. (alternate name)",
+         "lineNum" : "233",
+         "sum" : [
+           207,
+           208,
+           209,
+           210,
+           211,
+           212,
+           213,
+           214,
+           215,
+           216,
+           217,
+           218,
+           219,
+           220,
+           221,
+           222,
+           223,
+           224,
+           229,
+           231,
+           232
+         ]
+      },
+      {
+         "content" : "Add lines 207 to 224, 229, 231, and 232. Instance 2.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00003\u00003\u0000_\u0000A\u0000d\u0000d\u0000L\u0000i\u0000n\u0000e\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 233. Add lines 207 to 224, 229, 231, and 232. Instance 2. (alternate name)",
+         "lineNum" : "0233",
+         "sum" : [
+           207,
+           208,
+           209,
+           210,
+           211,
+           212,
+           213,
+           214,
+           215,
+           216,
+           217,
+           218,
+           219,
+           220,
+           221,
+           222,
+           223,
+           224,
+           229,
+           231,
+           232
+         ]
+      },
+      {
+         "content" : "This is your net income before adjustments. Line 150 minus line 233. If negative, enter 0.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00003\u00004\u0000_\u0000N\u0000e\u0000t\u0000B\u0000e\u0000f\u0000o\u0000r\u0000e\u0000A\u0000d\u0000j\u0000u\u0000s\u0000t\u0000[\u00000\u0000].Step 3. Net income. Line 234. This is your net income before adjustments. Line 150 minus line 233. If negative, enter 0. (alternate name)",
+         "lineNum" : "234",
+         "sum" : null,
+         "difference": [150, 233],
+         "noneg": true
+      },
+      {
+         "content" : "Social benefits repayment. If you reported income at line 119 and the amount at line 234 is greater than $64,625, see the repayment chart on the back of your T4E slip. If you reported income on lines 113 or 146, and the amount at line 234 is greater than $75,910, complete the chart for line 235 on the Worksheet for the return. Otherwise, enter 0.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00003\u00005\u0000_\u0000S\u0000o\u0000c\u0000i\u0000a\u0000l\u0000B\u0000e\u0000n\u0000e\u0000f\u0000i\u0000t\u0000s\u0000[\u00000\u0000].Step 3. Net income. Line 235. Social benefits repayment. If you reported income at line 119 and the amount at line 234 is greater than $64,625, see the repayment chart on the back of your T4E slip. If you reported income on lines 113 or 146, and the amount at line 234 is greater than $75,910, complete the chart for line 235 on the Worksheet for the return. Otherwise, enter 0. (alternate name)",
+         "lineNum" : "235",
+         "sum" : null
+      },
+      {
+         "content" : "This is your net income. Line 234 minus line 235. If negative, enter 0.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00003\u00006\u0000_\u0000N\u0000e\u0000t\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 3. Net income. Line 236. This is your net income. Line 234 minus line 235. If negative, enter 0. (alternate name)",
+         "lineNum" : "236",
+         "sum" : null,
+         "difference": [234, 235],
+         "noneg": true
+      },
+      {
+         "content" : "Canadian Forces personnel and police deduction. Box 43 of all T4 slips.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00004\u00004\u0000_\u0000M\u0000i\u0000l\u0000i\u0000t\u0000a\u0000r\u0000y\u0000P\u0000o\u0000l\u0000i\u0000c\u0000e\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000[\u00000\u0000].Step 4. Taxable income. Line 244. Canadian Forces personnel and police deduction. Box 43 of all T4 slips. (alternate name)",
+         "lineNum" : "244",
+         "sum" : null
+      },
+      {
+         "content" : "Security options deductions.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00004\u00009\u0000_\u0000S\u0000e\u0000c\u0000u\u0000r\u0000i\u0000t\u0000y\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000s\u0000[\u00000\u0000].Step 4. Taxable income. Line 249. Security options deductions. (alternate name)",
+         "lineNum" : "249",
+         "sum" : null
+      },
+      {
+         "content" : "Other payments deduction. Claim the amount from line 147, unless it includes an amount at line 146. If so, see line 250 in the guide.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00005\u00000\u0000_\u0000O\u0000t\u0000h\u0000e\u0000r\u0000P\u0000a\u0000y\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000s\u0000[\u00000\u0000].Step 4. Taxable income. Line 250. Other payments deduction. Claim the amount from line 147, unless it includes an amount at line 146. If so, see line 250 in the guide. (alternate name)",
+         "lineNum" : "250",
+         "sum" : null
+      },
+      {
+         "content" : "Limited partnership losses of other years.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00005\u00001\u0000_\u0000P\u0000a\u0000r\u0000t\u0000n\u0000e\u0000r\u0000s\u0000h\u0000i\u0000p\u0000L\u0000o\u0000s\u0000s\u0000e\u0000s\u0000[\u00000\u0000].Step 4. Taxable income. Line 251. Limited partnership losses of other years. (alternate name)",
+         "lineNum" : "251",
+         "sum" : null
+      },
+      {
+         "content" : "Non-capital losses of other years.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00005\u00002\u0000_\u0000N\u0000o\u0000n\u0000c\u0000a\u0000p\u0000i\u0000t\u0000a\u0000l\u0000L\u0000o\u0000s\u0000s\u0000e\u0000s\u0000[\u00000\u0000].Step 4. Taxable income. Line 252. Non-capital losses of other years. (alternate name)",
+         "lineNum" : "252",
+         "sum" : null
+      },
+      {
+         "content" : "Net capital losses of other years.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00005\u00003\u0000_\u0000N\u0000e\u0000t\u0000C\u0000a\u0000p\u0000i\u0000t\u0000a\u0000l\u0000L\u0000o\u0000s\u0000s\u0000e\u0000s\u0000[\u00000\u0000].Step 4. Taxable income. Line 253. Net capital losses of other years. (alternate name)",
+         "lineNum" : "253",
+         "sum" : null
+      },
+      {
+         "content" : "Capital gains deduction. Get and complete Form T657.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00005\u00004\u0000_\u0000C\u0000a\u0000p\u0000i\u0000t\u0000a\u0000l\u0000G\u0000a\u0000i\u0000n\u0000s\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000[\u00000\u0000].Step 4. Taxable income. Line 254. Capital gains deduction. Get and complete Form T657. (alternate name)",
+         "lineNum" : "254",
+         "sum" : null
+      },
+      {
+         "content" : "Northern residents deductions. Get and complete Form T2222.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00005\u00005\u0000_\u0000N\u0000o\u0000r\u0000t\u0000h\u0000e\u0000r\u0000n\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000s\u0000[\u00000\u0000].Step 4. Taxable income. Line 255. Northern residents deductions. Get and complete Form T2222. (alternate name)",
+         "lineNum" : "255",
+         "sum" : null
+      },
+      {
+         "content" : "Additional deductions. Specify.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00005\u00006\u0000_\u0000A\u0000d\u0000d\u0000i\u0000t\u0000i\u0000o\u0000n\u0000a\u0000l\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000s\u0000[\u00000\u0000].Step 4. Taxable income. Line 256. Additional deductions. Specify. (alternate name)",
+         "lineNum" : "0256",
+         "sum" : null
+      },
+      {
+         "content" : "Additional deductions.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00005\u00006\u0000_\u0000A\u0000d\u0000d\u0000i\u0000t\u0000i\u0000o\u0000n\u0000a\u0000l\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000s\u0000[\u00000\u0000].Step 4. Taxable income. Line 256. Additional deductions.  (alternate name)",
+         "lineNum" : "256",
+         "sum" : null
+      },
+      {
+         "content" : "Add lines 244 to 256. Instance 1.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00005\u00007\u0000_\u0000A\u0000d\u0000d\u0000L\u0000i\u0000n\u0000e\u0000s\u0000[\u00000\u0000].Step 4. Taxable income. Line 257. Add lines 244 to 256. Instance 1. (alternate name)",
+         "lineNum" : "257",
+         "sum" : [
+           244,
+           245,
+           246,
+           247,
+           248,
+           249,
+           250,
+           251,
+           252,
+           253,
+           254,
+           255,
+           256
+         ]
+      },
+      {
+         "content" : "Add lines 244 to 256. Instance 2.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00005\u00007\u0000_\u0000A\u0000d\u0000d\u0000L\u0000i\u0000n\u0000e\u0000s\u0000[\u00000\u0000].Step 4. Taxable income. Line 257. Add lines 244 to 256. Instance 2. (alternate name)",
+         "lineNum" : "0257",
+         "sum" : [
+           244,
+           245,
+           246,
+           247,
+           248,
+           249,
+           250,
+           251,
+           252,
+           253,
+           254,
+           255,
+           256
+         ]
+      },
+      {
+         "content" : "This is your taxable income. Line 236 minus line 257. If negative, enter 0.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00003\u0000[\u00000\u0000].þÿ\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00002\u00006\u00000\u0000_\u0000T\u0000a\u0000x\u0000a\u0000b\u0000l\u0000e\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000[\u00000\u0000].Step 4. Taxable income. Line 260. This is your taxable income. Line 236 minus line 257. If negative, enter 0. (alternate name)",
+         "lineNum" : "260",
+         "sum" : null,
+         "difference": [236, 257],
+         "noneg": true
+      },
+      {
+         "content" : "Net federal tax. Enter the amount from line 61 of Schedule 1. Attach Schedule 1, even if the result is 0.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00002\u00000\u0000_\u0000N\u0000e\u0000t\u0000F\u0000e\u0000d\u0000T\u0000a\u0000x\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 420. Net federal tax. Enter the amount from line 61 of Schedule 1. Attach Schedule 1, even if the result is 0. (alternate name)",
+         "lineNum" : "420",
+         "sum" : null
+      },
+      {
+         "content" : "Canada pension plan contributions payable on self-employment and other earnings. Complete Schedule 8 or get and complete Form RC381, whichever applies.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00002\u00001\u0000_\u0000C\u0000P\u0000P\u0000C\u0000o\u0000n\u0000t\u0000r\u0000i\u0000b\u0000u\u0000t\u0000i\u0000o\u0000n\u0000s\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 421. Canada pension plan contributions payable on self-employment and other earnings. Complete Schedule 8 or get and complete Form RC381, whichever applies. (alternate name)",
+         "lineNum" : "421",
+         "sum" : null
+      },
+      {
+         "content" : "Employment insurance premiums payable on self-employment and other eligible earnings. Complete Schedule 13.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00003\u00000\u0000_\u0000E\u0000I\u0000P\u0000r\u0000e\u0000m\u0000i\u0000u\u0000m\u0000s\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 430. Employment insurance premiums payable on self-employment and other eligible earnings. Complete Schedule 13. (alternate name)",
+         "lineNum" : "430",
+         "sum" : null
+      },
+      {
+         "content" : "Social benefits repayment. Amount from line 235.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00002\u00002\u0000_\u0000S\u0000o\u0000c\u0000i\u0000a\u0000l\u0000B\u0000e\u0000n\u0000e\u0000f\u0000i\u0000t\u0000s\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 422. Social benefits repayment. Amount from line 235. (alternate name)",
+         "lineNum" : "422",
+         "sum" : null
+      },
+      {
+         "content" : "Provincial or territorial tax. Attach Form 428, even if the result is 0.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00002\u00008\u0000_\u0000P\u0000r\u0000o\u0000v\u0000T\u0000e\u0000r\u0000r\u0000T\u0000a\u0000x\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 428. Provincial or territorial tax. Attach Form 428, even if the result is 0. (alternate name)",
+         "lineNum" : "428",
+         "sum" : null
+      },
+      {
+         "content" : "This is your total payable. Add lines 420, 421, 430, 422, and 428.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00003\u00005\u0000_\u0000T\u0000o\u0000t\u0000a\u0000l\u0000P\u0000a\u0000y\u0000a\u0000b\u0000l\u0000e\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 435. This is your total payable. Add lines 420, 421, 430, 422, and 428. (alternate name)",
+         "lineNum" : "435",
+         "sum" : [
+           420,
+           421,
+           430,
+           422,
+           428
+         ]
+      },
+      {
+         "content" : "Total income tax deducted. Amounts from all Canadian slips.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00003\u00007\u0000_\u0000T\u0000o\u0000t\u0000a\u0000l\u0000I\u0000n\u0000c\u0000o\u0000m\u0000e\u0000T\u0000a\u0000x\u0000D\u0000e\u0000d\u0000u\u0000c\u0000t\u0000e\u0000d\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 437. Total income tax deducted. Amounts from all Canadian slips. (alternate name)",
+         "lineNum" : "437",
+         "sum" : null
+      },
+      {
+         "content" : "Refundable Quebec abatement. See line 440 in the guide.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00004\u00000\u0000_\u0000Q\u0000u\u0000e\u0000b\u0000e\u0000c\u0000A\u0000b\u0000a\u0000t\u0000e\u0000m\u0000e\u0000n\u0000t\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 440. Refundable Quebec abatement. See line 440 in the guide. (alternate name)",
+         "lineNum" : "440",
+         "sum" : null
+      },
+      {
+         "content" : "Canada pension plan overpayment. See line 308 in the guide.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00004\u00008\u0000_\u0000C\u0000P\u0000P\u0000O\u0000v\u0000e\u0000r\u0000p\u0000a\u0000y\u0000m\u0000e\u0000n\u0000t\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 448. Canada pension plan overpayment. See line 308 in the guide. (alternate name)",
+         "lineNum" : "448",
+         "sum" : null
+      },
+      {
+         "content" : "Employment insurance overpayment. See line 312 in the guide.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00005\u00000\u0000_\u0000E\u0000I\u0000O\u0000v\u0000e\u0000r\u0000p\u0000a\u0000y\u0000m\u0000e\u0000n\u0000t\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 450. Employment insurance overpayment. See line 312 in the guide. (alternate name)",
+         "lineNum" : "450",
+         "sum" : null
+      },
+      {
+         "content" : "Refundable medical expense supplement. Complete the Worksheet for the return.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00005\u00002\u0000_\u0000M\u0000e\u0000d\u0000i\u0000c\u0000a\u0000l\u0000E\u0000x\u0000p\u0000e\u0000n\u0000s\u0000e\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 452. Refundable medical expense supplement. Complete the Worksheet for the return. (alternate name)",
+         "lineNum" : "452",
+         "sum" : null
+      },
+      {
+         "content" : "Working income tax benefit. Complete Schedule 6.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00005\u00003\u0000_\u0000W\u0000I\u0000T\u0000B\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 453. Working income tax benefit. Complete Schedule 6. (alternate name)",
+         "lineNum" : "453",
+         "sum" : null
+      },
+      {
+         "content" : "Refund of investment tax credit. Get and complete Form T2038(IND).",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00005\u00004\u0000_\u0000I\u0000n\u0000v\u0000e\u0000s\u0000t\u0000m\u0000e\u0000n\u0000t\u0000T\u0000a\u0000x\u0000C\u0000r\u0000e\u0000d\u0000i\u0000t\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 454. Refund of investment tax credit. Get and complete Form T2038(IND). (alternate name)",
+         "lineNum" : "454",
+         "sum" : null
+      },
+      {
+         "content" : "Part XII.2 trust tax credit. Box 38 of all T3 slips and box 209 of all T5013 slips.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00005\u00006\u0000_\u0000T\u0000r\u0000u\u0000s\u0000t\u0000T\u0000a\u0000x\u0000C\u0000r\u0000e\u0000d\u0000i\u0000t\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 456. Part XII.2 trust tax credit. Box 38 of all T3 slips and box 209 of all T5013 slips. (alternate name)",
+         "lineNum" : "456",
+         "sum" : null
+      },
+      {
+         "content" : "Employee and partner goods and services tax/harmonized sales tax rebate. Get and complete Form GST370.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00005\u00007\u0000_\u0000G\u0000S\u0000T\u0000_\u0000H\u0000S\u0000T\u0000_\u0000R\u0000e\u0000b\u0000a\u0000t\u0000e\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 457. Employee and partner goods and services tax/harmonized sales tax rebate. Get and complete Form GST370. (alternate name)",
+         "lineNum" : "457",
+         "sum" : null
+      },
+      {
+         "content" : "Eligible educator school supply tax credit. Supplies expenses. Maximum $1,000.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000E\u0000l\u0000i\u0000g\u0000i\u0000b\u0000l\u0000e\u0000E\u0000d\u0000u\u0000c\u0000a\u0000t\u0000o\u0000r\u0000S\u0000c\u0000h\u0000o\u0000o\u0000l\u0000S\u0000y\u0000p\u0000p\u0000l\u0000y\u0000T\u0000a\u0000x\u0000C\u0000r\u0000e\u0000d\u0000i\u0000t\u0000[\u00000\u0000].þÿ\u0000s\u0000f\u0000l\u0000i\u0000n\u0000e\u00004\u00006\u00008\u0000e\u0000n\u0000d\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 468. Eligible educator school supply tax credit. Supplies expenses. Maximum $1,000. (alternate name)",
+         "lineNum" : "468",
+         "sum" : null
+      },
+      {
+         "content" : "Line 468 multiplied by fifteen percent.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000E\u0000l\u0000i\u0000g\u0000i\u0000b\u0000l\u0000e\u0000E\u0000d\u0000u\u0000c\u0000a\u0000t\u0000o\u0000r\u0000S\u0000c\u0000h\u0000o\u0000o\u0000l\u0000S\u0000y\u0000p\u0000p\u0000l\u0000y\u0000T\u0000a\u0000x\u0000C\u0000r\u0000e\u0000d\u0000i\u0000t\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 469. Line 468 multiplied by fifteen percent.  (alternate name)",
+         "lineNum" : "469",
+         "sum" : null,
+         "mult": [468, 0.15]
+      },
+      {
+         "content" : "Tax paid by instalments.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00007\u00006\u0000_\u0000T\u0000a\u0000x\u0000P\u0000a\u0000i\u0000d\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 476. Tax paid by instalments. (alternate name)",
+         "lineNum" : "476",
+         "sum" : null
+      },
+      {
+         "content" : "Provincial or territorial credits. Complete Form 479 if it applies.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00007\u00009\u0000_\u0000P\u0000r\u0000o\u0000v\u0000T\u0000e\u0000r\u0000r\u0000C\u0000r\u0000e\u0000d\u0000i\u0000t\u0000s\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 479. Provincial or territorial credits. Complete Form 479 if it applies. (alternate name)",
+         "lineNum" : "479",
+         "sum" : null
+      },
+      {
+         "content" : "These are your total credits. Add lines 437 to 457, and 469 to 479. Instance 1.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00008\u00002\u0000_\u0000A\u0000d\u0000d\u0000L\u0000i\u0000n\u0000e\u0000s\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 482. These are your total credits. Add lines 437 to 457, and 469 to 479. Instance 1. (alternate name)",
+         "lineNum" : "482",
+         "sum" : [
+           437,
+           438,
+           439,
+           440,
+           441,
+           442,
+           443,
+           444,
+           445,
+           446,
+           447,
+           448,
+           449,
+           450,
+           451,
+           452,
+           453,
+           454,
+           455,
+           456,
+           457,
+           469,
+           470,
+           471,
+           472,
+           473,
+           474,
+           475,
+           476,
+           477,
+           478,
+           479
+         ]
+      },
+      {
+         "content" : "These are your total credits. Add lines 437 to 457, and 469 to 479. Instance 2.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00008\u00002\u0000_\u0000A\u0000d\u0000d\u0000L\u0000i\u0000n\u0000e\u0000s\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 482. These are your total credits. Add lines 437 to 457, and 469 to 479. Instance 2. (alternate name)",
+         "lineNum" : "0482",
+         "sum" : [
+           437,
+           438,
+           439,
+           440,
+           441,
+           442,
+           443,
+           444,
+           445,
+           446,
+           447,
+           448,
+           449,
+           450,
+           451,
+           452,
+           453,
+           454,
+           455,
+           456,
+           457,
+           469,
+           470,
+           471,
+           472,
+           473,
+           474,
+           475,
+           476,
+           477,
+           478,
+           479
+         ]
+      },
+      {
+         "content" : "This is your refund or balance owing. Line 435 minus line 482.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000_\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].Step 7. Refund or balance owing. This is your refund or balance owing. Line 435 minus line 482.  (alternate name)",
+         "lineNum" : "0",
+         "sum" : null,
+         "difference": [435, 482],
+         "reforbal": true
+      },
+      {
+         "content" : "Refund.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000_\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00008\u00004\u0000_\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 484. Refund. (alternate name)",
+         "lineNum" : "484",
+         "sum" : true,
+         "reforbal": "ref"
+      },
+      {
+         "content" : "Balance owing.",
+         "group" : null,
+         "id" : "þÿ\u0000f\u0000o\u0000r\u0000m\u00001\u0000[\u00000\u0000].þÿ\u0000P\u0000a\u0000g\u0000e\u00004\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000O\u0000r\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000R\u0000e\u0000f\u0000u\u0000n\u0000d\u0000_\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].þÿ\u0000L\u0000i\u0000n\u0000e\u0000_\u00004\u00008\u00005\u0000_\u0000B\u0000a\u0000l\u0000a\u0000n\u0000c\u0000e\u0000O\u0000w\u0000i\u0000n\u0000g\u0000[\u00000\u0000].Step 7. Refund or balance owing. Line 485. Balance owing. (alternate name)",
+         "lineNum" : "485",
+         "sum" : true,
+         "reforbal": "bal"
+      }
+   ]

@@ -1,0 +1,12 @@
+.cta {
+  padding: 1rem;
+  color: purple;
+  border: 1px solid black;
+  border-radius: 15%;
+  text-decoration: none;
+}
+
+.wrapper {
+  margin-left: 3rem;
+  max-width: 60%;
+}
