@@ -18,11 +18,11 @@ export default ({ data }) => {
   )
 
   const [savedForms, setSavedForms] = useState(() => {
-    if (localStorage.key(0)) {
+    if (window.localStorage.key(0)) {
       const prevForms = {}
-      for (let i = 0, len = localStorage.length; i < len; i++) {
-        const formName = localStorage.key(i)
-        const formValue = JSON.parse(localStorage.getItem(formName))
+      for (let i = 0, len = window.localStorage.length; i < len; i++) {
+        const formName = window.localStorage.key(i)
+        const formValue = JSON.parse(window.localStorage.getItem(formName))
         prevForms[formName] = formValue
       }
 
@@ -49,12 +49,12 @@ export default ({ data }) => {
   }
 
   const createNewForm = formName => {
-    localStorage.setItem(formName, JSON.stringify(fields))
+    window.localStorage.setItem(formName, JSON.stringify(fields))
     setSavedForms(prev => {
       if (prev.Untitled) delete prev.Untitled
       return {
         ...prev,
-        [formName]: JSON.parse(localStorage.getItem(formName)),
+        [formName]: JSON.parse(window.localStorage.getItem(formName)),
       }
     })
 
