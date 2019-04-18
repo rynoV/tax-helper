@@ -2,10 +2,16 @@ import React, { useState } from 'react'
 
 import styles from './toolbar.module.css'
 
+import newFile from '../data/new-file.svg'
+import enterArrow from '../data/enter-arrow.svg'
+import save from '../data/save.svg'
+import deleteIcon from '../data/delete.svg'
+
 export default ({
   curFormName,
   handleFillClick,
   saveForm,
+  deleteForm,
   formNames,
   changeForm,
 }) => {
@@ -36,7 +42,9 @@ export default ({
         <button
           key={formName}
           onClick={changeForm.bind(this, formName)}
-          className={curFormName === formName ? styles.currentForm : null}
+          className={`${curFormName === formName ? styles.currentForm : null} ${
+            styles.savedForm
+          }`}
         >
           {formName}
         </button>
@@ -48,13 +56,31 @@ export default ({
 
   return (
     <ul className={styles.toolbar}>
-      <li>Saved forms: {makeSavedFormButtons()}</li>
-      <li>
-        <button onClick={createNewForm}>New form</button>
+      <li className={styles.saved}>
+        <label>Your forms: </label>
+        {makeSavedFormButtons()}
       </li>
       <li>
-        <label>
-          Go to line #
+        <button
+          onClick={deleteForm.bind(this, curFormName)}
+          className={styles.iconButton}
+          title='Delete the current form'
+        >
+          <img src={deleteIcon} alt='Delete icon' className={styles.icon} />
+        </button>
+      </li>
+      <li className={styles.newForm}>
+        <button
+          onClick={createNewForm}
+          className={styles.iconButton}
+          title='Create a new blank form'
+        >
+          <img src={newFile} alt='New file icon' className={styles.icon} />
+        </button>
+      </li>
+      <li className={styles.goTo}>
+        <label htmlFor='goto'>Go to line #</label>
+        <span className={styles.submitDuo}>
           <input
             type='number'
             name='goto'
@@ -62,30 +88,64 @@ export default ({
             onChange={handleGoToChange}
             id='goto'
           />
-        </label>
-        <a href={`#${goToLine}`}>Go</a>
+          <a href={`#${goToLine}`}>
+            <button className={styles.iconButton}>
+              <img
+                src={enterArrow}
+                alt='Enter arrow icon'
+                className={styles.iconSmall}
+              />
+            </button>
+          </a>
+        </span>
       </li>
-      <li>
-        <label>
-          Save form as:
+      <li className={styles.save}>
+        <label htmlFor='newForm'>Save form as:</label>
+        <span className={styles.submitDuo}>
           <input
             type='text'
             value={formName}
             name='newform'
+            id='newform'
             onChange={handleFormNameChange}
           />
-        </label>
-        <button onClick={saveForm.bind(this, formName)}>Save</button>
+          <button
+            onClick={saveForm.bind(this, formName)}
+            className={styles.iconButton}
+          >
+            <img src={save} alt='Save icon' className={styles.iconSmall} />
+          </button>
+        </span>
       </li>
-      <li>
-        <label>
-          Fill fields with:
-          <input type='number' name='fill' onInput={handleFillChange} />
-        </label>
-        <button onClick={handleFillClick.bind(this, fill)}>Fill Fields</button>
+      <li className={styles.fill}>
+        <label htmlFor='fill'>Fill fields with:</label>
+        <span className={styles.submitDuo}>
+          <input
+            type='number'
+            id='fill'
+            name='fill'
+            onInput={handleFillChange}
+          />
+          <button
+            onClick={handleFillClick.bind(this, fill)}
+            className={styles.iconButton}
+          >
+            <img
+              src={enterArrow}
+              alt='Enter arrow icon'
+              className={styles.iconSmall}
+            />
+          </button>
+        </span>
       </li>
-      <li>
-        <input type='submit' value='Submit Form' name='submit' form='tax' />
+      <li className={styles.submit}>
+        <input
+          type='submit'
+          value='Submit Form'
+          name='submit'
+          form='tax'
+          className={styles.button}
+        />
       </li>
     </ul>
   )

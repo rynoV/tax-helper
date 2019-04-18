@@ -1,16 +1,24 @@
+body {
+  --primary: #ff4141;
+  --primary-light: #ffe8e8;
+  background: url('../data/pattern.png');
+}
+
+a {
+  color: var(--primary);
+}
+
 .wrapper {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
 }
 
-.child-wrapper {
-}
-
 header {
   width: 100vw;
   height: 6vh;
-  background-color: #aaa;
+  background-color: var(--primary);
+  color: #eee;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -20,7 +28,8 @@ footer {
   width: 100vw;
   height: 6vh;
   margin-top: auto;
-  background-color: #aaa;
+  background-color: var(--primary);
+  color: #eee;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -40,5 +49,5 @@ li {
 
 .header a {
   text-decoration: none;
-  color: #222;
+  color: #eee;
 }

@@ -8,20 +8,28 @@ import styles from './download.module.css'
 export default () => {
   return (
     <Layout>
+      <form
+        id='download'
+        action='/api/download'
+        method='get'
+        acceptCharset='utf-8'
+      />
       <div className={styles.wrapper}>
         <div className={styles.info}>
-          <p>Your form was successfully processed!</p>
+          <h3>Your form was successfully processed!</h3>
         </div>
         <div className={styles.actions}>
-          <form action='/api/download' method='get' acceptCharset='utf-8'>
-            <input
-              type='submit'
-              value='Download'
-              name='download'
-              id='download'
-            />
-          </form>
-          <Link to='/formFiller/'>Back to form filler</Link>
+          <input
+            form='download'
+            type='submit'
+            value='Download'
+            name='download'
+            id='download'
+            className={styles.button}
+          />
+          <Link className={styles.buttonSecondary} to='/formFiller/'>
+            Go back
+          </Link>
         </div>
       </div>
     </Layout>

@@ -1,19 +1,128 @@
 .toolbar {
-  background-color: #ccccccee;
+  background-color: var(--primary-light);
+  position: sticky;
+  top: 0;
+  box-shadow: 0px 3px 1.5px 0px #00000033;
+  opacity: 0.9;
   display: flex;
-  justify-content: space-around;
   align-items: center;
-  padding: 1rem;
+  justify-content: space-around;
+  max-height: 10vh;
+  padding: 0.5rem 0;
 }
 
-.toolbar label input {
-  width: 50px;
+.toolbar button,
+.toolbar li {
+  display: flex;
+  flex-direction: column;
 }
 
-.current-form {
-  color: purple;
+label {
+  font-size: 0.8rem;
+  font-weight: lighter;
+  margin: 0 0.4rem;
 }
 
-label * {
-  margin: 0 0.7rem 0 0.7rem;
+.toolbar input {
+  border-left: 1px solid var(--primary);
+  border-right: 1px solid var(--primary);
+  border-top: none;
+  border-bottom: none;
+  box-shadow: inset 0px -0px 3px 0px rgba(0, 0, 0, 0.23);
+}
+
+.toolbar input[type='number'] {
+  max-width: 3rem;
+  max-height: 1.5rem;
+  z-index: 2;
+}
+
+.toolbar input[type='text'] {
+  max-width: 7rem;
+  max-height: 1.5rem;
+  z-index: 2;
+}
+
+ul .saved {
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.submit-duo {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  width: fit-content;
+  max-width: 30px;
+}
+
+.icon-small {
+  width: fit-content;
+  max-width: 1.5rem;
+}
+
+.icon-button {
+  display: inline-block;
+  text-decoration: none;
+  background: var(--primary-light);
+  cursor: pointer;
+  border: none;
+  box-shadow: none;
+  border-radius: 3px;
+  padding: 2px 6px 2px 6px;
+}
+
+.icon-button:hover {
+  transform: scale(1.2);
+  transition: 0.2s;
+}
+
+.button {
+  text-decoration: none;
+  background: var(--primary);
+  border: var(--primary);
+  cursor: pointer;
+  box-shadow: none;
+  border-radius: 3px;
+  padding: 0.3rem;
+  color: white;
+  font-size: 1.1rem;
+}
+
+.button:hover {
+  transform: scale(1.1);
+  transition: 0.2s;
+}
+
+.saved-form {
+  color: var(--primary);
+  border: 0.5px solid var(--primary);
+  margin: 0 0.2rem;
+  background: white;
+  font-size: lighter;
+  margin-bottom: 2px;
+  font-size: 1.1rem;
+  border-radius: 3px;
+  padding: 0 2px;
+  text-decoration: none;
+  cursor: pointer;
+  box-shadow: none;
+}
+
+.saved-form:hover {
+  transform: scale(1.1);
+  transition: 0.2s;
+}
+
+ul li .current-form {
+  transform: scale(1.2);
+  transition: 0.2s;
+  background: var(--primary);
+  border: 0.5px solid var(--primary);
+  color: white;
 }

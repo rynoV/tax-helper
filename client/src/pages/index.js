@@ -7,7 +7,7 @@ import styles from './index.module.css'
 export default () => {
   return (
     <Layout>
-      <div className={styles.wrapper}>
+      <div className={styles.content}>
         <h1>Welcome to the Tax Form Filler!</h1>
         <p>
           Using this app, you can fill in your{' '}
@@ -23,3 +23,5 @@ export default () => {
     </Layout>
   )
 }
+// <div className={styles.content}> </div>
+// <img src={document} alt='A document' className={styles.document} />

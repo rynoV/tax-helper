@@ -4,41 +4,74 @@
 }
 
 .inputs {
-  height: 70vh;
-  overflow: scroll;
-  width: 60%;
+  width: 90%;
   margin: 0 1.5rem 0 1.5rem;
 }
 
-.calculated {
-  margin: 0 0 0 1.5rem;
-  padding: 1.5rem;
-  position: sticky;
-  top: 0;
-  background-color: #ccccccee;
-}
-
 .inputs input {
-  width: 50px;
-}
-
-.inputs li {
-  display: grid;
-  margin: 0.7rem 0 0.7rem 0;
+  width: 5rem;
+  height: 1.8rem;
+  align-self: flex-end;
+  margin-left: auto;
+  border-left: 1px solid var(--primary);
+  border-right: 1px solid var(--primary);
+  border-top: none;
+  border-bottom: none;
+  box-shadow: inset 0px -0px 3px 0px rgba(0, 0, 0, 0.23);
 }
 
 .inputs .line-number {
-  font-size: 14px;
+  font-size: 0.9rem;
   font-weight: lighter;
   margin: 0;
 }
 
-.calculated p {
-  margin: 0;
+.inputs .input-label {
+  font-size: 1.1rem;
+}
+
+.inputs label {
+  margin-right: 1rem;
+}
+
+.hidden {
+  display: none;
+  border: none;
+}
+
+.shown {
+  display: flex;
+  margin: 0.7rem 0 0.7rem 0;
+  border-bottom: 1px solid var(--primary);
+  padding-bottom: 1rem;
+}
+
+.calculated {
+  margin: 0 0 0 1.5rem;
+  padding: 1.5rem 1.5rem 0 1.5rem;
+  background-color: var(--primary-light);
+  box-shadow: -2px 0px 1.5px 0px #00000033;
+  position: sticky;
+  top: 10vh;
+  z-index: -1;
+  max-height: fit-content;
+}
+
+.calculated ul {
+  margin: auto 0;
+}
+
+.calculated li {
+  display: list-item;
+  margin-bottom: 1.4rem;
 }
 
 .value {
-  margin: 0;
-  font-size: 18px;
+  margin-left: 1rem;
+  font-size: 1.15rem;
   font-weight: bold;
+}
+
+.calculated .display {
+  font-size: 1.1rem;
 }

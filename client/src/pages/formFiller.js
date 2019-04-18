@@ -8,6 +8,7 @@ import Toolbar from '../components/Toolbar'
 import { getInitialFields } from '../funcs/getInitialFields'
 
 const windowGlobal = typeof window !== 'undefined' && window
+const undefFieldName = 'Untitled'
 
 export default ({ data }) => {
   const { edges } = data.allFormFieldsJson
@@ -15,9 +16,14 @@ export default ({ data }) => {
     return node.lineNum
   })
 
-  const [fields, setFields] = useState(() =>
-    getInitialFields(edges, 0, linesArr)
-  )
+  const emptyFieldsRef = useRef()
+
+  const [fields, setFields] = useState(() => {
+    const emptyFields = getInitialFields(edges, 0, linesArr)
+    emptyFieldsRef.current = emptyFields
+
+    return emptyFields
+  })
 
   const [savedForms, setSavedForms] = useState(() => {
     if (windowGlobal && windowGlobal.localStorage.key(0)) {
@@ -33,16 +39,22 @@ export default ({ data }) => {
       return prevForms
     } else {
       return {
-        Untitled: fields,
+        [undefFieldName]: fields,
       }
     }
   })
 
-  const [curFormName, setCurFormName] = useState('Untitled')
+  const [curFormName, setCurFormName] = useState(undefFieldName)
 
   const initialized = useRef(false)
+
   useEffect(() => {
-    if (initialized.current) setFields(savedForms[curFormName])
+    if (initialized.current)
+      setFields(() =>
+        curFormName === undefFieldName
+          ? emptyFieldsRef.current
+          : savedForms[curFormName]
+      )
     initialized.current = true
   }, [curFormName])
 
@@ -54,9 +66,9 @@ export default ({ data }) => {
 
   const createNewForm = formName => {
     windowGlobal &&
-      windowGlobal.localStorage.setItem(formName, JSON.stringify(fields))
-    windowGlobal &&
       setSavedForms(prev => {
+        windowGlobal.localStorage.setItem(formName, JSON.stringify(fields))
+
         if (prev.Untitled) delete prev.Untitled
         return {
           ...prev,
@@ -67,16 +79,40 @@ export default ({ data }) => {
     setCurFormName(formName)
   }
 
+  const deleteForm = formName => {
+    windowGlobal &&
+      setSavedForms(prev => {
+        if (formName !== undefFieldName) {
+          windowGlobal.localStorage.removeItem(formName)
+          delete prev[formName]
+        }
+
+        return {
+          ...prev,
+        }
+      })
+
+    const key =
+      Object.keys(savedForms).length > 1
+        ? Object.keys(savedForms)[0]
+        : undefFieldName
+
+    setCurFormName(key)
+  }
+
   const changeForm = formName => {
     setCurFormName(formName)
   }
 
+  const formNames = Object.keys(savedForms)
+
   return (
     <Layout>
       <Toolbar
-        formNames={Object.keys(savedForms)}
+        formNames={formNames}
         handleFillClick={handleFillClick}
         saveForm={createNewForm}
+        deleteForm={deleteForm}
         changeForm={changeForm}
         curFormName={curFormName}
       />
